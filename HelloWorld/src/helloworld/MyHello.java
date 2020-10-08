@@ -23,6 +23,8 @@ public class MyHello
 		
 		System.out.println("Cant Commit");
 		
+		System.out.println("gg son");
+		
 	}
 
 	public static void main(String[] args) 
