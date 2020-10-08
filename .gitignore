@@ -1,5 +1,11 @@
+/bin/
+
 # Compiled class file
 *.class
+
+# Setting folder
+.settings
+
 
 # Log file
 *.log
