@@ -8,17 +8,17 @@ public class Problem_1 {
 		// TODO Auto-generated method stub
 
 		Scanner in = new Scanner(System.in);
+		
+		int value;
+		int product = 1;
+		
+		for (int i = 0; i < 3; i++) {
+			System.out.print("Please enter number " + (i + 1) + ": ");
+			value = in.nextInt();
+			product *= value;
+		}
 
-		System.out.println("Please enter a number: ");
-		int one = in.nextInt();
-		System.out.println("Please enter a number: ");
-		int two = in.nextInt();
-		System.out.println("Please enter a number: ");
-		int three = in.nextInt();
-
-		int product = one * two * three;
-
+		System.out.println();
 		System.out.println("Here is the product of the numbers you have entered: " + product);
-		System.out.println("Thank you");
 	}
 }
