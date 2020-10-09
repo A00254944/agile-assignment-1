@@ -18,19 +18,9 @@ print on the console the answer of the 3 numbers multiplied.
 
 Test Design
 _________________
-<tr>
-    <th>Test Number</th>
-    <th>Test Objective</th>
-    <th>Test Type</th>
-    <th>Inputs</th>
-    <th>Expected Outputs</th>
-    <th>Test Procedure</th>
-</tr>
-<tr>
-    <td>1</td>
-    <td>Multiply 3 numbers</td>
-    <td>UAT</td>
-    <td>5,7,99</td>
-    <td></td>
-    <td>enter 3 numbers and see result</td>
-</tr>
+   Test Number | 1 <br>
+   Test Objective | Multiply 3 numbers <br>
+   Test Type | UAT <br>
+   Inputs | 5,7,99 <br>
+   Expected Outputs | 3465 <br>
+   Test Procedure | enter 3 numbers and see result <br>
