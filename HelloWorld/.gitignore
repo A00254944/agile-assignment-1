@@ -1,14 +1,12 @@
 /bin/
-
 # Compiled class file
 *.class
 
-# Setting folder
-.settings
-
-
 # Log file
 *.log
+
+# Setting folder
+.settings
 
 # BlueJ files
 *.ctxt
