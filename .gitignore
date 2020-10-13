@@ -5,6 +5,9 @@
 
 # Setting folder
 .settings
+.classpath
+.project
+.rej
 
 
 # Log file
