@@ -1,5 +1,6 @@
 # agile-assignment-1
 
+Craig
 Sean
 Karolis
 Lekan
